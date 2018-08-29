@@ -1,4 +1,4 @@
 # hello-world
-Es un repositorio de prueba
-Solo intento aprender...
+Es un repositorio de prueba.
+Solo una pequeña muestra ;)
 Paciencia!
